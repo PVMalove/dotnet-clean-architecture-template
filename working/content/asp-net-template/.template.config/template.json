@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Pavel Malov",
+    "classifications": [
+        "Web",
+        "Clean Architecture Project",
+        "API",
+        "Microservice"
+    ],
+    "identity": "iksergey.cleanarchitecture.template",
+    "name": "Clean Architecture Project by Pavel Malov",
+    "description": "Микросервис с Clean Architecture. Author: Pavel Malov (GitHub: @pvmalove)",
+    "shortName": "asp-net-template",
+    "sourceName": "asp-net-template",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
